@@ -1,6 +1,7 @@
 # welcome-udacity
 Tweet Hello @Udacity welcome to Europe! With "Hello" in a given language
 
+# How to Use
 Use terminal to run the app.rb with parameters twitter.consumer_key twitter.consumer_secret twitter.access_token twitter.access_token_secret languageCode
 
 $ruby app.rb consumer_key consumer_secret access_token access_token_secret is #for Icelandic
