@@ -1,4 +1,3 @@
-require 'countries'
 require 'twitter'
 require 'language_converter'
 
